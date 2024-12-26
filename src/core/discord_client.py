@@ -1,0 +1,1 @@
+"""Discord client implementation for Midjourney Studio App."""
